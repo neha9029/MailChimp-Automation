@@ -6,6 +6,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
+
+import com.mailchimp.actions.ScrollingElementsIntoView;
+import com.mailchimp.webpages.Homepage;
+
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
@@ -26,11 +30,20 @@ public class TestNGTestCases {
 		Thread.sleep(2000);
 		driver.manage().window().maximize();
 		log.info("Maximizing Window");
+		
 	}
 	
 	@Test
-	public void testMethod() {
-		log.trace("test");
+	public void testMethod() throws InterruptedException {
+		
+		//Scrolling About MailChimp link into view 
+		ScrollingElementsIntoView.scrollToFindElement(Homepage.aboutMailChimp(driver));
+		log.info("Scrolling 'About MailChimp' link into View");
+		Thread.sleep(3000);
+
+		//Clicking on About MailChimp link
+		Homepage.clickOnAboutLink(driver);
+		log.info("Clicking on the about link");
 	}
 	
 	@AfterClass
