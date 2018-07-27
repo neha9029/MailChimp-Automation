@@ -25,7 +25,7 @@ public class CSVFile {
 			
 			bufferWriter.append("Name");
 			bufferWriter.append(separator);
-			bufferWriter.append("Title");
+			bufferWriter.append("Position");
 			bufferWriter.append(separator);
 			bufferWriter.append("Description");
 			bufferWriter.flush();
