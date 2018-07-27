@@ -33,3 +33,207 @@
 13:30:28.116 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
 13:30:32.173 INFO  TestNGTestCases -Clicking on the about link
 13:30:34.303 INFO  TestNGTestCases -Terminated the browser
+15:00:09.864 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:00:12.044 INFO  TestNGTestCases -Maximizing Window
+15:00:14.149 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:00:19.053 INFO  TestNGTestCases -Clicking on the about link
+15:00:19.054 INFO  TestNGTestCases -CSV file with Name, Title, Description generated
+15:00:21.196 INFO  TestNGTestCases -Terminated the browser
+15:01:34.898 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:01:37.188 INFO  TestNGTestCases -Maximizing Window
+15:01:39.290 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:01:43.674 INFO  TestNGTestCases -Clicking on the about link
+15:01:43.676 INFO  TestNGTestCases -CSV file with Name, Title, Description generated
+15:01:45.844 INFO  TestNGTestCases -Terminated the browser
+15:02:52.576 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:02:54.758 INFO  TestNGTestCases -Maximizing Window
+15:02:56.843 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:03:01.030 INFO  TestNGTestCases -Clicking on the about link
+15:03:01.032 INFO  TestNGTestCases -CSV file with Name, Title, Description generated
+15:03:03.172 INFO  TestNGTestCases -Terminated the browser
+15:03:58.250 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:04:00.430 INFO  TestNGTestCases -Maximizing Window
+15:04:02.527 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:04:06.841 INFO  TestNGTestCases -Clicking on the about link
+15:04:06.843 INFO  TestNGTestCases -CSV file with Name, Title, Description generated
+15:04:08.974 INFO  TestNGTestCases -Terminated the browser
+15:06:35.910 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:06:38.077 INFO  TestNGTestCases -Maximizing Window
+15:06:40.172 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:06:44.221 INFO  TestNGTestCases -Clicking on the about link
+15:06:44.222 INFO  TestNGTestCases -CSV file with Name, Title, Description generated
+15:06:46.353 INFO  TestNGTestCases -Terminated the browser
+15:13:00.366 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:13:02.533 INFO  TestNGTestCases -Maximizing Window
+15:13:04.717 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:13:08.831 INFO  TestNGTestCases -Clicking on the about link
+15:13:08.833 INFO  TestNGTestCases -CSV file with Name, Title, Description generated
+15:13:11.036 INFO  TestNGTestCases -Terminated the browser
+15:31:55.853 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:31:58.022 INFO  TestNGTestCases -Maximizing Window
+15:32:00.124 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:32:04.372 INFO  TestNGTestCases -Clicking on the about link
+15:32:06.423 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+15:32:11.659 INFO  TestNGTestCases -Terminated the browser
+15:44:28.208 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:44:30.400 INFO  TestNGTestCases -Maximizing Window
+15:44:32.515 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:44:36.686 INFO  TestNGTestCases -Clicking on the about link
+15:44:38.756 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+15:44:43.997 INFO  TestNGTestCases -Terminated the browser
+15:46:06.282 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:46:08.473 INFO  TestNGTestCases -Maximizing Window
+15:46:10.585 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:46:14.881 INFO  TestNGTestCases -Clicking on the about link
+15:46:16.943 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+15:46:22.164 INFO  TestNGTestCases -Terminated the browser
+15:47:17.595 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:47:19.774 INFO  TestNGTestCases -Maximizing Window
+15:47:21.860 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:47:25.947 INFO  TestNGTestCases -Clicking on the about link
+15:47:28.007 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+15:47:33.227 INFO  TestNGTestCases -Terminated the browser
+15:50:42.742 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:50:44.908 INFO  TestNGTestCases -Maximizing Window
+15:50:46.994 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:50:51.088 INFO  TestNGTestCases -Clicking on the about link
+15:50:53.193 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+15:50:58.389 INFO  TestNGTestCases -Terminated the browser
+15:51:22.695 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:51:24.860 INFO  TestNGTestCases -Maximizing Window
+15:51:26.952 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:51:31.075 INFO  TestNGTestCases -Clicking on the about link
+15:51:33.138 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+15:51:38.319 INFO  TestNGTestCases -Terminated the browser
+15:55:15.511 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:55:17.679 INFO  TestNGTestCases -Maximizing Window
+15:55:19.768 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:55:23.977 INFO  TestNGTestCases -Clicking on the about link
+15:55:26.037 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+15:55:31.190 INFO  TestNGTestCases -Terminated the browser
+15:56:21.818 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+15:56:24.016 INFO  TestNGTestCases -Maximizing Window
+15:56:26.131 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+15:56:30.208 INFO  TestNGTestCases -Clicking on the about link
+15:56:32.271 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+15:56:37.418 INFO  TestNGTestCases -Terminated the browser
+16:00:13.581 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+16:00:15.747 INFO  TestNGTestCases -Maximizing Window
+16:00:17.924 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+16:00:22.147 INFO  TestNGTestCases -Clicking on the about link
+16:00:24.275 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+16:00:29.439 INFO  TestNGTestCases -Terminated the browser
+16:01:45.010 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+16:01:47.175 INFO  TestNGTestCases -Maximizing Window
+16:01:49.273 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+16:01:53.292 INFO  TestNGTestCases -Clicking on the about link
+16:01:55.358 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+16:02:00.519 INFO  TestNGTestCases -Terminated the browser
+16:06:46.561 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+16:06:48.722 INFO  TestNGTestCases -Maximizing Window
+16:06:50.875 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+16:06:54.969 INFO  TestNGTestCases -Clicking on the about link
+16:06:57.038 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+16:07:02.251 INFO  TestNGTestCases -Terminated the browser
+16:10:12.584 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+16:10:14.748 INFO  TestNGTestCases -Maximizing Window
+16:10:16.838 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+16:10:21.122 INFO  TestNGTestCases -Clicking on the about link
+16:10:23.272 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+16:10:28.463 INFO  TestNGTestCases -Terminated the browser
+17:23:40.262 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:23:42.434 INFO  TestNGTestCases -Maximizing Window
+17:23:44.524 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:23:48.678 INFO  TestNGTestCases -Clicking on the about link
+17:23:50.738 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:23:55.937 INFO  TestNGTestCases -Terminated the browser
+17:24:35.290 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:24:37.456 INFO  TestNGTestCases -Maximizing Window
+17:24:39.539 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:24:43.890 INFO  TestNGTestCases -Clicking on the about link
+17:24:46.019 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:24:51.216 INFO  TestNGTestCases -Terminated the browser
+17:25:18.897 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:25:21.060 INFO  TestNGTestCases -Maximizing Window
+17:25:23.149 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:25:27.438 INFO  TestNGTestCases -Clicking on the about link
+17:25:29.506 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:25:34.717 INFO  TestNGTestCases -Terminated the browser
+17:26:13.798 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:26:15.972 INFO  TestNGTestCases -Maximizing Window
+17:26:18.065 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:26:22.143 INFO  TestNGTestCases -Clicking on the about link
+17:26:24.220 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:26:29.431 INFO  TestNGTestCases -Terminated the browser
+17:26:56.477 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:26:58.668 INFO  TestNGTestCases -Maximizing Window
+17:27:00.800 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:27:05.117 INFO  TestNGTestCases -Clicking on the about link
+17:27:07.191 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:27:17.994 INFO  TestNGTestCases -Terminated the browser
+17:27:55.548 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:27:57.713 INFO  TestNGTestCases -Maximizing Window
+17:27:59.799 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:28:03.940 INFO  TestNGTestCases -Clicking on the about link
+17:28:06.005 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:28:11.757 INFO  TestNGTestCases -Terminated the browser
+17:28:56.393 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:28:58.573 INFO  TestNGTestCases -Maximizing Window
+17:29:00.662 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:29:04.763 INFO  TestNGTestCases -Clicking on the about link
+17:29:06.827 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:29:12.639 INFO  TestNGTestCases -Terminated the browser
+17:29:28.400 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:29:30.574 INFO  TestNGTestCases -Maximizing Window
+17:29:32.681 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:29:36.692 INFO  TestNGTestCases -Clicking on the about link
+17:29:38.758 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:29:44.825 INFO  TestNGTestCases -Terminated the browser
+17:30:20.069 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:30:22.233 INFO  TestNGTestCases -Maximizing Window
+17:30:24.388 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:30:28.519 INFO  TestNGTestCases -Clicking on the about link
+17:30:30.569 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:30:36.935 INFO  TestNGTestCases -Terminated the browser
+17:30:53.919 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:30:56.084 INFO  TestNGTestCases -Maximizing Window
+17:30:58.173 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:31:02.529 INFO  TestNGTestCases -Clicking on the about link
+17:31:04.583 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:31:10.407 INFO  TestNGTestCases -Terminated the browser
+17:43:37.139 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:43:39.309 INFO  TestNGTestCases -Maximizing Window
+17:43:41.398 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:43:45.584 INFO  TestNGTestCases -Clicking on the about link
+17:43:47.643 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:43:53.380 INFO  TestNGTestCases -Terminated the browser
+17:47:46.330 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:47:48.502 INFO  TestNGTestCases -Maximizing Window
+17:47:50.580 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:47:54.631 INFO  TestNGTestCases -Clicking on the about link
+17:47:56.693 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:48:02.370 INFO  TestNGTestCases -Terminated the browser
+17:54:22.232 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:54:24.397 INFO  TestNGTestCases -Maximizing Window
+17:54:26.486 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:54:30.618 INFO  TestNGTestCases -Clicking on the about link
+17:54:32.708 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:54:38.905 INFO  TestNGTestCases -Terminated the browser
+17:58:59.522 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+17:59:01.694 INFO  TestNGTestCases -Maximizing Window
+17:59:03.781 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+17:59:07.784 INFO  TestNGTestCases -Clicking on the about link
+17:59:09.843 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+17:59:16.452 INFO  TestNGTestCases -Terminated the browser
+18:02:22.125 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+18:02:24.304 INFO  TestNGTestCases -Maximizing Window
+18:02:26.391 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+18:02:30.548 INFO  TestNGTestCases -Clicking on the about link
+18:02:32.597 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+18:02:39.361 INFO  TestNGTestCases -Terminated the browser
+18:03:29.016 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+18:03:31.193 INFO  TestNGTestCases -Maximizing Window
+18:03:33.287 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+18:03:37.616 INFO  TestNGTestCases -Clicking on the about link
+18:03:39.734 INFO  TestNGTestCases -Scrolling 'LeaderShip' text into View
+18:03:45.312 INFO  TestNGTestCases -Terminated the browser

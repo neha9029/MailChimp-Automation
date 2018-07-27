@@ -8,6 +8,9 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.nio.charset.StandardCharsets;
+import static com.mailchimp.testcases.TestNGTestCases.driver;
+
+import com.mailchimp.webpages.AboutMailChimpPage;
 
 
 public class CSVFile {
@@ -29,8 +32,10 @@ public class CSVFile {
 			bufferWriter.append(separator);
 			bufferWriter.append("Description");
 			bufferWriter.flush();
-
 			
+		
+
+		
 			
 		}
 		catch(Exception e){

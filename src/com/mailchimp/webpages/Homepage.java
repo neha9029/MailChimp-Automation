@@ -17,8 +17,7 @@ public class Homepage {
 	//Clicking on 'About MailChimp' link
 	public static void clickOnAboutLink(WebDriver driver) {
 		element = aboutMailChimp(driver);
-		element.click();
-		
+		element.click();	
 		
 	}
 	
