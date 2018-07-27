@@ -8,9 +8,14 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import com.mailchimp.actions.ScrollingElementsIntoView;
+import com.mailchimp.csv.CSVFile;
 import com.mailchimp.webpages.Homepage;
 
 import org.apache.logging.log4j.Logger;
+
+import java.io.IOException;
+import java.io.OutputStream;
+
 import org.apache.logging.log4j.LogManager;
 
 
@@ -34,7 +39,7 @@ public class TestNGTestCases {
 	}
 	
 	@Test
-	public void testMethod() throws InterruptedException {
+	public void testMethod() throws InterruptedException, IOException {
 		
 		//Scrolling About MailChimp link into view 
 		ScrollingElementsIntoView.scrollToFindElement(Homepage.aboutMailChimp(driver));
@@ -44,6 +49,10 @@ public class TestNGTestCases {
 		//Clicking on About MailChimp link
 		Homepage.clickOnAboutLink(driver);
 		log.info("Clicking on the about link");
+		
+		//Writing to CSV file
+		CSVFile.writeToCSVFile("/Users/nehanaik/git/MailChimpAutomation/resources/MailChimp.csv",",");
+		log.info("CSV file with Name, Title, Description generated");
 	}
 	
 	@AfterClass

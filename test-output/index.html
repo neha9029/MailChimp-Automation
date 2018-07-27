@@ -135,7 +135,7 @@
         </div> <!-- panel Default_suite -->
         <div panel-name="test-xml-Default_suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">/private/var/folders/kb/_rbzh_712q19dnsjjhvynv4m0000gn/T/testng-eclipse-59113816/testng-customsuite.xml</span>
+            <span class="header-content">/private/var/folders/kb/_rbzh_712q19dnsjjhvynv4m0000gn/T/testng-eclipse--497001046/testng-customsuite.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -144,7 +144,11 @@
 &lt;suite name=&quot;Default suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Default test&quot; verbose=&quot;2&quot;&gt;
     &lt;classes&gt;
+      &lt;class name=&quot;com.mailchimp.webpages.AboutMailChimpPage&quot;/&gt;
+      &lt;class name=&quot;com.mailchimp.actions.ScrollingElementsIntoView&quot;/&gt;
       &lt;class name=&quot;com.mailchimp.testcases.TestNGTestCases&quot;/&gt;
+      &lt;class name=&quot;com.mailchimp.webpages.Homepage&quot;/&gt;
+      &lt;class name=&quot;com.mailchimp.csv.CSVFile&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Default test --&gt;
 &lt;/suite&gt; &lt;!-- Default suite --&gt;
@@ -158,7 +162,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Default test (1 class)</span>
+                <span class="test-name">Default test (5 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -188,7 +192,7 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testMethod')
 data.setCell(0, 2, 'com.mailchimp.testcases.TestNGTestCases')
-data.setCell(0, 3, 6282);
+data.setCell(0, 3, 6164);
 window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
 return data;
 }
@@ -226,11 +230,11 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">testMethod</span>
-                <span class="method-start">7031 ms</span>
+                <span class="method-start">6584 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">closeBrowser</span>
-                <span class="method-start">13316 ms</span>
+                <span class="method-start">12753 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
