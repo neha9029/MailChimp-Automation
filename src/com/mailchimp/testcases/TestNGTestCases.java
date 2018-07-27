@@ -15,8 +15,7 @@ import com.mailchimp.webpages.Homepage;
 import org.apache.logging.log4j.Logger;
 
 import java.io.IOException;
-import java.io.OutputStream;
-import java.util.concurrent.TimeUnit;
+
 
 import org.apache.logging.log4j.LogManager;
 
@@ -29,7 +28,7 @@ public class TestNGTestCases {
 
 	@BeforeClass
 	public void setUp() throws InterruptedException{
-		System.setProperty("webdriver.chrome.driver", "/Users/nehanaik/selenium/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/nehanaik/git/MailChimpAutomation/resources/chromedriver");
 		driver = new ChromeDriver();
 		webSiteURL ="https://mailchimp.com/";
 		driver.get(webSiteURL);
@@ -54,11 +53,10 @@ public class TestNGTestCases {
 
         //SCrolling LeaderShip text on AboutMailChimp into view
 		ScrollingElementsIntoView.scrollToFindElement(AboutMailChimpPage.getLeardershipText(driver));
-		log.info("Scrolling 'LeaderShip' text into View");
+		log.info("Locating 'LeaderShip' text and Scrolling into View");
 		Thread.sleep(3000);
-		//driver.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS);
 
-
+/*
 		//Printing names
 		String namesElements[] = (AboutMailChimpPage.getMemberName(driver));
 
@@ -80,12 +78,11 @@ public class TestNGTestCases {
 		for(String description: descriptionElements) {
 			System.out.println(description);
 		}
-
+*/
 		//Writing to CSV file
-
-		/*CSVFile.writeToCSVFile("/Users/nehanaik/git/MailChimpAutomation/resources/MailChimp.csv",",");
+		CSVFile.writeToCSVFile("/Users/nehanaik/git/MailChimpAutomation/resources/MailChimp.csv",",");
 		log.info("CSV file with Name, Title, Description generated");
-		 */
+		 
 	}
 
 	@AfterClass
