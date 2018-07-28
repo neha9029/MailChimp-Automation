@@ -19,3 +19,10 @@
 19:58:15.636 INFO  TestNGTestCases -Locating 'LeaderShip' text and Scrolling into View
 19:58:20.409 INFO  TestNGTestCases -CSV file with Name, Title, Description generated
 19:58:22.531 INFO  TestNGTestCases -Terminated the browser
+20:46:18.626 INFO  TestNGTestCases -Launching MailChimp.com on Chrome Browser
+20:46:20.800 INFO  TestNGTestCases -Maximizing Window
+20:46:22.908 INFO  TestNGTestCases -Scrolling 'About MailChimp' link into View
+20:46:27.306 INFO  TestNGTestCases -Clicking on the about link
+20:46:29.392 INFO  TestNGTestCases -Locating 'LeaderShip' text and Scrolling into View
+20:46:34.054 INFO  TestNGTestCases -CSV file with Name, Title, Description generated
+20:46:36.179 INFO  TestNGTestCases -Terminated the browser

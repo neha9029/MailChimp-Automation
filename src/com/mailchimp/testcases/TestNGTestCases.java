@@ -28,7 +28,7 @@ public class TestNGTestCases {
 
 	@BeforeClass
 	public void setUp() throws InterruptedException{
-		System.setProperty("webdriver.chrome.driver", "/Users/nehanaik/git/MailChimpAutomation/resources/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "resources/chromedriver");
 		driver = new ChromeDriver();
 		webSiteURL ="https://mailchimp.com/";
 		driver.get(webSiteURL);
@@ -80,7 +80,7 @@ public class TestNGTestCases {
 		}
 */
 		//Writing to CSV file
-		CSVFile.writeToCSVFile("/Users/nehanaik/git/MailChimpAutomation/resources/MailChimp.csv",",");
+		CSVFile.writeToCSVFile("resources/MailChimp.csv",",");
 		log.info("CSV file with Name, Title, Description generated");
 		 
 	}

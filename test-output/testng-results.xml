@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-07-27T23:58:00Z" name="Default suite" finished-at="2018-07-27T23:58:22Z" duration-ms="22131">
+  <suite started-at="2018-07-28T00:46:14Z" name="Default suite" finished-at="2018-07-28T00:46:36Z" duration-ms="21931">
     <groups>
     </groups>
-    <test started-at="2018-07-27T23:58:00Z" name="Default test" finished-at="2018-07-27T23:58:22Z" duration-ms="22131">
+    <test started-at="2018-07-28T00:46:14Z" name="Default test" finished-at="2018-07-28T00:46:36Z" duration-ms="21931">
       <class name="com.mailchimp.testcases.TestNGTestCases">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mailchimp.testcases.TestNGTestCases@1e7aa82b]" started-at="2018-07-27T23:58:00Z" name="setUp" finished-at="2018-07-27T23:58:07Z" duration-ms="6828" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.mailchimp.testcases.TestNGTestCases@278bb07e]" started-at="2018-07-28T00:46:14Z" name="setUp" finished-at="2018-07-28T00:46:20Z" duration-ms="6533" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testMethod()[pri:0, instance:com.mailchimp.testcases.TestNGTestCases@1e7aa82b]" started-at="2018-07-27T23:58:07Z" name="testMethod" finished-at="2018-07-27T23:58:20Z" duration-ms="13163" status="PASS">
+        <test-method signature="testMethod()[pri:0, instance:com.mailchimp.testcases.TestNGTestCases@278bb07e]" started-at="2018-07-28T00:46:20Z" name="testMethod" finished-at="2018-07-28T00:46:34Z" duration-ms="13246" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMethod -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mailchimp.testcases.TestNGTestCases@1e7aa82b]" started-at="2018-07-27T23:58:20Z" name="closeBrowser" finished-at="2018-07-27T23:58:22Z" duration-ms="2119" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.mailchimp.testcases.TestNGTestCases@278bb07e]" started-at="2018-07-28T00:46:34Z" name="closeBrowser" finished-at="2018-07-28T00:46:36Z" duration-ms="2120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
