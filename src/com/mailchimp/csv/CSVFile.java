@@ -50,7 +50,9 @@ public class CSVFile {
 			    bufferWriter.append(removeTags(position[i]));
 
 				bufferWriter.append(separator);
+				bufferWriter.append("\"");
 				bufferWriter.append(removeTags(description[i]));
+				bufferWriter.append("\"");
 
 				bufferWriter.newLine();
 			}
